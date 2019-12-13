@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css?family=Poiret+One&display=swap');
+*{
+    -fx-font-family: 'Poiret One', cursive;
+}
+
+.header{
+	-fx-background-image: url("../view.assets/sky.jpeg");
+    -fx-background-size: cover;
+	-fx-background-repeat: no-repeat;
+	
+}
+
+.footer{
+	-fx-background-color: #FFBF00;
+}
+
+.ImgLogin{
+	-fx-background-radius: 50;
+}
+
+.btnLogin{
+	-fx-background-color: #FFBF00;
+}
+
+.btnLogin:hover{
+	-fx-background-color: #FDCB72;
+}
+
+
+.btnSalir{
+	-fx-background-image: url("../view.assets/exitExam.jpg");
+    -fx-background-size: cover;
+	-fx-background-repeat: no-repeat;
+}
+
+
+
+.fondo{
+	-fx-background-image: url("../view.assets/sky.jpeg");
+    -fx-background-size: cover;
+	-fx-background-repeat: no-repeat;
+}
